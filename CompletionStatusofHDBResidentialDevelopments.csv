@@ -1,0 +1,76 @@
+year,type,status,no_of_units
+2007,HDB Flats,Completed,6247
+2007,HDB Flats,Under Construction,18073
+2007,HDB Flats,Awarded,10108
+2007,DBSS,Completed,na
+2007,DBSS,Under Construction,na
+2008,HDB Flats,Completed,1769
+2008,HDB Flats,Under Construction,31058
+2008,HDB Flats,Awarded,14754
+2008,DBSS,Completed,na
+2008,DBSS,Under Construction,na
+2009,HDB Flats,Completed,7050
+2009,HDB Flats,Under Construction,35635
+2009,HDB Flats,Awarded,11627
+2009,DBSS,Completed,na
+2009,DBSS,Under Construction,na
+2010,HDB Flats,Completed,11888
+2010,HDB Flats,Under Construction,43030
+2010,HDB Flats,Awarded,19283
+2010,DBSS,Completed,na
+2010,DBSS,Under Construction,na
+2011,HDB Flats,Completed,17947
+2011,HDB Flats,Under Construction,58731
+2011,HDB Flats,Awarded,33648
+2011,DBSS,Completed,1058
+2011,DBSS,Under Construction,5902
+2012,HDB Flats,Completed,11541
+2012,HDB Flats,Under Construction,72737
+2012,HDB Flats,Awarded,25547
+2012,DBSS,Completed,1203
+2012,DBSS,Under Construction,4699
+2013,HDB Flats,Completed,16881
+2013,HDB Flats,Under Construction,86298
+2013,HDB Flats,Awarded,30442
+2013,DBSS,Completed,806
+2013,DBSS,Under Construction,3893
+2014,HDB Flats,Completed,26723
+2014,HDB Flats,Under Construction,90800
+2014,HDB Flats,Awarded,31234
+2014,DBSS,Completed,3446
+2014,DBSS,Under Construction,447
+2015,HDB Flats,Completed,23716
+2015,HDB Flats,Under Construction,86307
+2015,HDB Flats,Awarded,19223
+2015,DBSS,Completed,447
+2015,DBSS,Under Construction,0
+2016,HDB Flats,Completed,25530
+2016,HDB Flats,Under Construction,75291
+2016,HDB Flats,Awarded,14514
+2016,DBSS,Completed,0
+2016,DBSS,Under Construction,0
+2017,HDB Flats,Completed,31325
+2017,HDB Flats,Under Construction,65957
+2017,HDB Flats,Awarded,23179
+2017,DBSS,Completed,0
+2017,DBSS,Under Construction,0
+2018,HDB Flats,Completed,15748
+2018,HDB Flats,Under Construction,69457
+2018,HDB Flats,Awarded,19401
+2018,DBSS,Completed,0
+2018,DBSS,Under Construction,0
+2019,HDB Flats,Completed,13093
+2019,HDB Flats,Under Construction,73553
+2019,HDB Flats,Awarded,15848
+2019,DBSS,Completed,0
+2019,DBSS,Under Construction,0
+2020,HDB Flats,Completed,8234
+2020,HDB Flats,Under Construction,75322
+2020,HDB Flats,Awarded,10003
+2020,DBSS,Completed,0
+2020,DBSS,Under Construction,0
+2021,HDB Flats,Completed,13627
+2021,HDB Flats,Under Construction,82987
+2021,HDB Flats,Awarded,23375
+2021,DBSS,Completed,0
+2021,DBSS,Under Construction,0
